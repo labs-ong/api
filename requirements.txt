@@ -6,3 +6,4 @@ bcrypt == 4.1.2
 pyjwt == 2.8.0
 python-jose == 3.3.0
 httpx == 0.25.2
+sqlalchemy == 2.0.25
